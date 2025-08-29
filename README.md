@@ -30,5 +30,7 @@ ibmcloud ce application create --name guess-the-capital --image us.icr.io/${SN_I
 ibmcloud ce application get --name guess-the-capital
 
 ==========================================================
+
+
 위의 경우는 ibm cloud ide를 사용한
 예시이므로 이미지 빌드 이미지 푸시 배포시 Cloud Guide를 준수하면 됨^^
