@@ -1,4 +1,4 @@
-# coding-project-template# cloud
+
 # cloud
 
 웹 페이지를 호스팅하려면 터미널에서 다음 명령어를 실행하세요.
